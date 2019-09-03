@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uplusbaseball/static/css/main.40818d61.chunk.css",
+    "main.css": "/uplusbaseball/static/css/main.a3562cdb.chunk.css",
     "main.js": "/uplusbaseball/static/js/main.566997aa.chunk.js",
     "main.js.map": "/uplusbaseball/static/js/main.566997aa.chunk.js.map",
     "runtime~main.js": "/uplusbaseball/static/js/runtime~main.a7b0eef1.js",
@@ -8,9 +8,9 @@
     "static/js/2.8090ae63.chunk.js": "/uplusbaseball/static/js/2.8090ae63.chunk.js",
     "static/js/2.8090ae63.chunk.js.map": "/uplusbaseball/static/js/2.8090ae63.chunk.js.map",
     "index.html": "/uplusbaseball/index.html",
-    "precache-manifest.000e0ff8c71c6392be65b4b1b9ee1f85.js": "/uplusbaseball/precache-manifest.000e0ff8c71c6392be65b4b1b9ee1f85.js",
+    "precache-manifest.c1560f480009dbd27cb8541ed78191a3.js": "/uplusbaseball/precache-manifest.c1560f480009dbd27cb8541ed78191a3.js",
     "service-worker.js": "/uplusbaseball/service-worker.js",
-    "static/css/main.40818d61.chunk.css.map": "/uplusbaseball/static/css/main.40818d61.chunk.css.map",
+    "static/css/main.a3562cdb.chunk.css.map": "/uplusbaseball/static/css/main.a3562cdb.chunk.css.map",
     "static/media/logo.png": "/uplusbaseball/static/media/logo.8fe7f295.png"
   }
 }
