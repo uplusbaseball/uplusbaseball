@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "091d0dce9fce4098c21e036276c045d8",
+    "revision": "2b599a6e7193218b6ae473d63f74b550",
     "url": "/uplusbaseball/index.html"
   },
   {
-    "revision": "bc6dcbc2424335702ead",
-    "url": "/uplusbaseball/static/css/main.5dc72e3b.chunk.css"
+    "revision": "9249838c81be6a86a92a",
+    "url": "/uplusbaseball/static/css/main.27c4716c.chunk.css"
   },
   {
     "revision": "2acbdbdc0077d8bf2b68",
     "url": "/uplusbaseball/static/js/2.8090ae63.chunk.js"
   },
   {
-    "revision": "bc6dcbc2424335702ead",
+    "revision": "9249838c81be6a86a92a",
     "url": "/uplusbaseball/static/js/main.566997aa.chunk.js"
   },
   {
