@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/uplusbaseball/precache-manifest.1cdd86f0e0fc08ccccfca00c6d3f49ad.js"
+  "/uplusbaseball/precache-manifest.8cad417fdbd1528782480ebd8972296a.js"
 );
 
 self.addEventListener('message', (event) => {
