@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8b1a0f26a371b877dc0387048d559cc",
+    "revision": "406f4724bcae11ed0531eeb90695b295",
     "url": "/uplusbaseball/index.html"
   },
   {
-    "revision": "2e62adfd75483bf1cfd6",
+    "revision": "3a8489da5410604ff5c0",
     "url": "/uplusbaseball/static/css/main.b109581f.chunk.css"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uplusbaseball/static/js/2.8090ae63.chunk.js"
   },
   {
-    "revision": "2e62adfd75483bf1cfd6",
-    "url": "/uplusbaseball/static/js/main.2fa46803.chunk.js"
+    "revision": "3a8489da5410604ff5c0",
+    "url": "/uplusbaseball/static/js/main.fa30d1dd.chunk.js"
   },
   {
     "revision": "a084d069ef1e4f501cb4",
     "url": "/uplusbaseball/static/js/runtime~main.a7b0eef1.js"
   },
   {
-    "revision": "1e589162acf52d9a2470a6948ecea3aa",
-    "url": "/uplusbaseball/static/media/abl.1e589162.jpg"
+    "revision": "827a5cd0fdb753db5357dc2eccce67ba",
+    "url": "/uplusbaseball/static/media/stove_league.827a5cd0.jpg"
   }
 ]);
