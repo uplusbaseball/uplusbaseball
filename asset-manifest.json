@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/uplusbaseball/static/css/main.9aacf7f9.chunk.css",
-    "main.js": "/uplusbaseball/static/js/main.58c5b20f.chunk.js",
-    "main.js.map": "/uplusbaseball/static/js/main.58c5b20f.chunk.js.map",
+    "main.css": "/uplusbaseball/static/css/main.d3eed5f6.chunk.css",
+    "main.js": "/uplusbaseball/static/js/main.d307054e.chunk.js",
+    "main.js.map": "/uplusbaseball/static/js/main.d307054e.chunk.js.map",
     "runtime~main.js": "/uplusbaseball/static/js/runtime~main.8e6f1d74.js",
     "runtime~main.js.map": "/uplusbaseball/static/js/runtime~main.8e6f1d74.js.map",
-    "static/js/2.995a6bfb.chunk.js": "/uplusbaseball/static/js/2.995a6bfb.chunk.js",
-    "static/js/2.995a6bfb.chunk.js.map": "/uplusbaseball/static/js/2.995a6bfb.chunk.js.map",
+    "static/js/2.d8d0308d.chunk.js": "/uplusbaseball/static/js/2.d8d0308d.chunk.js",
+    "static/js/2.d8d0308d.chunk.js.map": "/uplusbaseball/static/js/2.d8d0308d.chunk.js.map",
     "index.html": "/uplusbaseball/index.html",
-    "precache-manifest.ef46d704e5f2d9cdd8e92b089e56fa6c.js": "/uplusbaseball/precache-manifest.ef46d704e5f2d9cdd8e92b089e56fa6c.js",
+    "precache-manifest.df1f79ca1c97003cdaf4d8aae9b730b4.js": "/uplusbaseball/precache-manifest.df1f79ca1c97003cdaf4d8aae9b730b4.js",
     "service-worker.js": "/uplusbaseball/service-worker.js",
-    "static/css/main.9aacf7f9.chunk.css.map": "/uplusbaseball/static/css/main.9aacf7f9.chunk.css.map",
+    "static/css/main.d3eed5f6.chunk.css.map": "/uplusbaseball/static/css/main.d3eed5f6.chunk.css.map",
     "static/media/baseball_2020new.jpg": "/uplusbaseball/static/media/baseball_2020new.5fef0c2b.jpg",
+    "static/media/challenge999.jpg": "/uplusbaseball/static/media/challenge999.3df598f1.jpg",
+    "static/media/chat_event.jpg": "/uplusbaseball/static/media/chat_event.ced26beb.jpg",
     "static/media/spring_baseball.jpg": "/uplusbaseball/static/media/spring_baseball.7abd63f4.jpg"
   }
 }
