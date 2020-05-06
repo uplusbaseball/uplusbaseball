@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77bef1f9e8d06e760519eec86bdce760",
+    "revision": "082513a7d1a13649c010240b117a0aa4",
     "url": "/uplusbaseball/index.html"
   },
   {
-    "revision": "0e456747dc5b01e6c7b2",
-    "url": "/uplusbaseball/static/css/main.d3eed5f6.chunk.css"
+    "revision": "4580804482f5c135dfa8",
+    "url": "/uplusbaseball/static/css/main.f249dd26.chunk.css"
   },
   {
-    "revision": "f8d971def464c8e030b6",
-    "url": "/uplusbaseball/static/js/2.f91d121c.chunk.js"
+    "revision": "71f62d063126512430d7",
+    "url": "/uplusbaseball/static/js/2.86f89175.chunk.js"
   },
   {
-    "revision": "0e456747dc5b01e6c7b2",
-    "url": "/uplusbaseball/static/js/main.f5caceb3.chunk.js"
+    "revision": "4580804482f5c135dfa8",
+    "url": "/uplusbaseball/static/js/main.7b70e131.chunk.js"
   },
   {
     "revision": "f1efa75bc64bda3bfcfa",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ced26beb95c6a5b4e491a76e3ec18fa3",
     "url": "/uplusbaseball/static/media/chat_event.ced26beb.jpg"
+  },
+  {
+    "revision": "1728d74d25fc436289ceb78608433635",
+    "url": "/uplusbaseball/static/media/cheerleader_cam.1728d74d.jpg"
   },
   {
     "revision": "7abd63f4d1115a0ae5c5a14dfe48d8fc",
