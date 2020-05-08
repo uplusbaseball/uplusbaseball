@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "131536dc4d65d95b0bf23ce55c458979",
+    "revision": "ef5d9039fb543d10bbdd2d59792b509b",
     "url": "/uplusbaseball/index.html"
   },
   {
-    "revision": "5b1b401d024d8af87f72",
+    "revision": "7479305394286e14b988",
     "url": "/uplusbaseball/static/css/main.f249dd26.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uplusbaseball/static/js/2.98011607.chunk.js"
   },
   {
-    "revision": "5b1b401d024d8af87f72",
-    "url": "/uplusbaseball/static/js/main.7c5781ea.chunk.js"
+    "revision": "7479305394286e14b988",
+    "url": "/uplusbaseball/static/js/main.644c7c0d.chunk.js"
   },
   {
     "revision": "f1efa75bc64bda3bfcfa",
     "url": "/uplusbaseball/static/js/runtime~main.8e6f1d74.js"
   },
   {
-    "revision": "5fef0c2bd99bc46ca2d91773fd84b132",
-    "url": "/uplusbaseball/static/media/baseball_2020new.5fef0c2b.jpg"
+    "revision": "8ab3e0b59602f9d11b35539da8b375df",
+    "url": "/uplusbaseball/static/media/baseball_2020new.8ab3e0b5.jpg"
   },
   {
     "revision": "3df598f134a4792fb02b4cac47e81d7e",
