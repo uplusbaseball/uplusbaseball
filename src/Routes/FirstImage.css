@@ -1,0 +1,48 @@
+.FirstImage {
+  flex-direction: column;
+  max-width: 100%;
+  height: auto;
+}
+
+.FirstImage-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.FirstImage-header {
+  background-color: #282c34;
+  max-width: 100%;
+  height: auto;
+}
+
+.FirstImage-header > img {
+  background-color: #282c34;
+  max-width: 100%;
+  height: auto;
+}
+
+.FirstImage-header > a > img {
+  background-color: #282c34;
+  max-width: 100%;
+  height: auto;
+}
+
+.FirstImage-link {
+  color: #61dafb;
+}
+
+.FirstImage-button {
+  position: absolute;
+  /* background-color: transparent; */
+  background-color: teal;
+  top: 50%;
+  left: 50%;
+  width: 512px;
+  height: 115px;
+  border: none;
+}
+
+.FirstImage-button:hover {
+  cursor: pointer;
+}
