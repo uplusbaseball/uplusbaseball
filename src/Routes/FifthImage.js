@@ -1,6 +1,6 @@
 import React from "react";
 import "../Routes/FifthImage.css";
-import Image4 from "../cheerleader_cam.jpg";
+import Image4 from "../new_contents.jpg";
 
 function FifthImage() {
   return (
