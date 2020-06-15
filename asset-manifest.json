@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/uplusbaseball/static/css/main.4b7ef47e.chunk.css",
-    "main.js": "/uplusbaseball/static/js/main.18986b81.chunk.js",
-    "main.js.map": "/uplusbaseball/static/js/main.18986b81.chunk.js.map",
-    "runtime~main.js": "/uplusbaseball/static/js/runtime~main.8e6f1d74.js",
-    "runtime~main.js.map": "/uplusbaseball/static/js/runtime~main.8e6f1d74.js.map",
-    "static/js/2.98011607.chunk.js": "/uplusbaseball/static/js/2.98011607.chunk.js",
-    "static/js/2.98011607.chunk.js.map": "/uplusbaseball/static/js/2.98011607.chunk.js.map",
+    "main.css": "/uplusbaseball/static/css/main.a2cadadf.chunk.css",
+    "main.js": "/uplusbaseball/static/js/main.1b7954e3.chunk.js",
+    "main.js.map": "/uplusbaseball/static/js/main.1b7954e3.chunk.js.map",
+    "runtime-main.js": "/uplusbaseball/static/js/runtime-main.60aee0f4.js",
+    "runtime-main.js.map": "/uplusbaseball/static/js/runtime-main.60aee0f4.js.map",
+    "static/js/2.69f7be2b.chunk.js": "/uplusbaseball/static/js/2.69f7be2b.chunk.js",
+    "static/js/2.69f7be2b.chunk.js.map": "/uplusbaseball/static/js/2.69f7be2b.chunk.js.map",
     "index.html": "/uplusbaseball/index.html",
-    "precache-manifest.a59b28e2eea90ee0fdcdc9bec6638c5e.js": "/uplusbaseball/precache-manifest.a59b28e2eea90ee0fdcdc9bec6638c5e.js",
+    "precache-manifest.1fe0c17aa0355fd454807f848182c3f6.js": "/uplusbaseball/precache-manifest.1fe0c17aa0355fd454807f848182c3f6.js",
     "service-worker.js": "/uplusbaseball/service-worker.js",
-    "static/css/main.4b7ef47e.chunk.css.map": "/uplusbaseball/static/css/main.4b7ef47e.chunk.css.map",
+    "static/css/main.a2cadadf.chunk.css.map": "/uplusbaseball/static/css/main.a2cadadf.chunk.css.map",
+    "static/js/2.69f7be2b.chunk.js.LICENSE.txt": "/uplusbaseball/static/js/2.69f7be2b.chunk.js.LICENSE.txt",
     "static/media/baseball_2020new.jpg": "/uplusbaseball/static/media/baseball_2020new.8ab3e0b5.jpg",
     "static/media/challenge999.jpg": "/uplusbaseball/static/media/challenge999.3df598f1.jpg",
     "static/media/chat_event.jpg": "/uplusbaseball/static/media/chat_event.ced26beb.jpg",
-    "static/media/cheerleader_cam.jpg": "/uplusbaseball/static/media/cheerleader_cam.1728d74d.jpg",
-    "static/media/google_lens.jpg": "/uplusbaseball/static/media/google_lens.1565a1b5.jpg"
-  }
+    "static/media/google_lens.jpg": "/uplusbaseball/static/media/google_lens.1565a1b5.jpg",
+    "static/media/new_contents.jpg": "/uplusbaseball/static/media/new_contents.c69634b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60aee0f4.js",
+    "static/js/2.69f7be2b.chunk.js",
+    "static/css/main.a2cadadf.chunk.css",
+    "static/js/main.1b7954e3.chunk.js"
+  ]
 }
